@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106741492550",
+    "firebase_url": "https://online-food-order-app-9a326-default-rtdb.firebaseio.com",
+    "project_id": "online-food-order-app-9a326",
+    "storage_bucket": "online-food-order-app-9a326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106741492550:android:440daf58ab51e47011d347",
+        "android_client_info": {
+          "package_name": "Foodfrom.Home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106741492550-7qtf52646fnpj4s90c63l5eroubrbn87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Foodfrom.Home",
+            "certificate_hash": "b33619c5b157633d8476a500919b9f703bd62e51"
+          }
+        },
+        {
+          "client_id": "106741492550-6veq3ing1d62ocqqk3e2cu4le1l66p7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKtFo2JB6mgz9ti3ARgy8qyYamcDw1tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106741492550-6veq3ing1d62ocqqk3e2cu4le1l66p7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
